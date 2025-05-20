@@ -2,7 +2,7 @@
 
 Maximize your progress in **Lootify** with the **Best Free Script**, your fully **keyless** farming and automation assistant. Whether you're defeating bosses or auto-using potions, this script ensures you're always a step ahead in grinding efficiency.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/Ozair324/Lootify-Best-Free-Script/blob/main/Lootify%20Best%20Free%20Script%20-%20Total%20Farming%20%26%20Rebirth%20Control%20.png)
 
 ---
 
